@@ -12,6 +12,8 @@ This is the classification and detection module of teh application 'Relisis'.
 
 Making use of the demographic data of users to build up an application that assists people in times of disasters.
 
+
+
 ## Methodology:
 
 Worked on the implementation of R based clustering and community detection for identifying relief centres. It uses JSON data for the parsing of collected information such as - longitude, latitude, timestamp, safe (or unsafe).
