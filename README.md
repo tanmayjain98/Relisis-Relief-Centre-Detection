@@ -23,7 +23,7 @@ It accurately produces relief centres on Google Maps API. It provides the user t
 ## Result:
 
 ![Screenshot](RelisisFigure.png)
-![Screenshot](RelisisFigure2.png)
-![Screenshot](RelisisFigure3.png)
+![Screenshot](RelisisFigure2.jpg)
+![Screenshot](RelisisFigure3.jpg)
 
 
